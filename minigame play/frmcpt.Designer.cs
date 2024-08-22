@@ -94,12 +94,12 @@
             // linkLabel1
             // 
             linkLabel1.AutoSize = true;
-            linkLabel1.Location = new Point(113, 405);
+            linkLabel1.Location = new Point(87, 405);
             linkLabel1.Name = "linkLabel1";
-            linkLabel1.Size = new Size(80, 20);
+            linkLabel1.Size = new Size(129, 20);
             linkLabel1.TabIndex = 6;
             linkLabel1.TabStop = true;
-            linkLabel1.Text = "linkLabel1";
+            linkLabel1.Text = "revenir a l'acceuil";
             linkLabel1.LinkClicked += linkLabel1_LinkClicked;
             // 
             // frmcpt
